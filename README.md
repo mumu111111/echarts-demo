@@ -1,1 +1,2 @@
 echarts
+图表
